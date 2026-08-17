@@ -1,0 +1,27 @@
+# Auto-generated project directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+
+# Log, journal, and temporary files
+*.jou
+*.log
+*.str
+webtalk*.jou
+webtalk*.log
+vivado*.jou
+vivado*.log
+vivado_pid*.debug
+vivado_pid*.str
+
+# Backup files
+*.backup.jou
+*.backup.log
+*~
+*.bak
+
+# Auto-saved project backups
+.Xil/
